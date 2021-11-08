@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/daviani/my_url-checker_1/issues"
   },
-  "homepage": "https://github.com/daviani/my_url-checker_1#readme"
+  "homepage": "https://github.com/daviani/my_url-checker_1#readme",
+  "engines": {
+    "node": ">=14.18.1 || >=16.13.0"
+  }
 }
